@@ -1,0 +1,68 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: rgb(148, 1, 50);
+    text-align: center;
+}
+#header{
+    background-color:aliceblue(56, 86, 255);
+}
+blockquote{
+    text-align: center;
+    color: rgb(212, 135, 222);
+}
+.link{
+    text-align: center;
+}
+.foto{
+    background-color: maroon;
+}
+.foto img{
+    width: 20%;
+}
+.gambar img{
+    width: 23%;
+}
+.gambar{
+    text-align: center;
+}
+.jawa{
+    font-weight:bold;
+    font-size: 80px;
+}
+.koleksi{
+    text-align: center;
+}
+.koleksi img{
+    width: 20%;
+}
+#profil h3{
+    text-align: center;
+}
+#beternak h3{
+    text-align: center;
+}
+.promo{
+    margin: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.promo h3{
+    background-color: rgb(220, 231, 255);
+    border: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: indigo;
+}
+.promo h2{
+    text-align: center;
+}
+.link {
+    text-align: center;
+    color:black;
+}
+.promo h4{
+    text-align: center;
+}
