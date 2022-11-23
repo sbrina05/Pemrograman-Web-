@@ -1,0 +1,10 @@
+header, footer {
+    background-color:yellow;
+    height: 15vh;
+}
+aside {
+    background-color: pink;
+}
+ nav {
+    background-color: yellowgreen;
+}
